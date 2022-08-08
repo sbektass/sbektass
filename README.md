@@ -15,7 +15,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="./img/python-original.svg" alt="python" width="40" height="40"/>
 <a target="_blank" rel="noreferrer"> <img src="./img/java-ar21.svg" alt="java" width="60" height="40"/>
 </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="./img/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="./img/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="./img/mysql-original-wordmark.svg" alt="mysql" width="50" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="./img/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./img/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="./img/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
