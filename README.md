@@ -11,7 +11,7 @@
 <a href="https://leetcode.com/sbektas/" target="blank"><img align="center" src="./img/leet-code.svg" alt="sumeyye_bektass" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="./img/c-original" alt="c" width="40" height="40"/> </a>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="./img/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="./img/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="./img/python-original.svg" alt="python" width="40" height="40"/>
 <a target="_blank" rel="noreferrer"> <img src="./img/java-ar21.svg" alt="java" width="40" height="40"/>
