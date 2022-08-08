@@ -7,8 +7,7 @@
 
 <a href="https://linkedin.com/in/sumeyyabektas" target="blank"><img align="center" src="./img/linkedin.svg" alt="sumeyyabektas" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sumeyye_bektass" target="blank"><img align="center" src="./img/hackerrank.svg" alt="sumeyye_bektass" height="30" width="40" /></a>
-</p>
-<a href="https://leetcode.com/sbektas/" target="blank"><img align="center" src="./img/leet-code.svg" alt="sumeyye_bektass" height="30" width="40" /></a></p>
+<a href="https://leetcode.com/sbektas/" target="blank"><img align="center" src="./img/leet-code.svg" alt="sumeyye_bektass" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="./img/c-original.svg" alt="c" width="40" height="40"/> </a>
