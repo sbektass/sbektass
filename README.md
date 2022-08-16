@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Sümeyya</h1>
 <h3 align="center">I'm a Software Engineer</h3>
 
+<img align='left' src="https://komarev.com/ghpvc/?username=sbektass&color=green"> <br/>
 
 <a href="https://github.com/sbektass/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sbektass&theme=dark&show_icons=true" />
